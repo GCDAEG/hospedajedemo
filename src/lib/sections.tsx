@@ -13,7 +13,7 @@ export const sections: NavSection[] = [
   },
   {
     id: "gallery",
-    label: "Galeria",
+    label: "Galería",
   },
-  { id: "location", label: "Ubicacion" },
+  { id: "location", label: "Ubicación" },
 ];
